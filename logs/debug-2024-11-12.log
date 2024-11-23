@@ -1,0 +1,18 @@
+2024-11-12 11:00:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2024-11-12 11:00:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2024-11-12 11:00:29 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:29 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:33 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:00:33 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:02:13 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2024-11-12 11:02:13 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2024-11-12 11:02:27 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 11:02:27 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2024-11-12 13:48:13 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2024-11-12 13:48:13 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'

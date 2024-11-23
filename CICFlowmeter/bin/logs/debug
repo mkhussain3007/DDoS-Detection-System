@@ -1,0 +1,54 @@
+2024-11-23 21:48:33 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-11-23 21:48:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-11-23 21:48:36 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\Flask\CICFlowmeter\bin\data\daily\2024-11-23_Flow.csv
+2024-11-23 21:48:37 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2024-11-23 21:48:37 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-11-23 21:50:49 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-11-23 21:50:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2024-11-23 21:50:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2024-11-23 21:50:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2024-11-23 21:50:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2024-11-23 21:51:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2024-11-23 21:51:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-11-23 21:51:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2024-11-23 21:51:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-11-23 21:51:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-11-23 21:51:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2024-11-23 21:51:04 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\Flask\CICFlowmeter\bin\data\daily\2024-11-23_Flow.csv
+2024-11-23 21:51:07 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2024-11-23 21:51:07 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-11-23 22:25:26 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-11-23 22:25:56 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\Flask\CICFlowmeter\bin\data\daily\2024-11-23_Flow.csv
+2024-11-23 22:26:20 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-11-23 22:27:35 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\Flask\CICFlowmeter\bin\data\daily\2024-11-23_Flow.csv
+2024-11-23 22:28:04 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-11-23 22:28:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-11-23 22:28:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-11-23 22:28:13 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\Flask\CICFlowmeter\bin\data\daily\2024-11-23_Flow.csv
+2024-11-23 22:28:15 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2024-11-23 22:28:15 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-11-23 22:29:09 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-11-23 22:29:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2024-11-23 22:29:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2024-11-23 22:29:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2024-11-23 22:29:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2024-11-23 22:29:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-11-23 22:29:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2024-11-23 22:29:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2024-11-23 22:29:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2024-11-23 22:29:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2024-11-23 22:29:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2024-11-23 22:29:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2024-11-23 22:29:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 49 flow
+2024-11-23 22:29:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2024-11-23 22:29:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2024-11-23 22:29:34 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\Flask\CICFlowmeter\bin\data\daily\2024-11-23_Flow.csv
+2024-11-23 22:29:35 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2024-11-23 22:29:35 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
